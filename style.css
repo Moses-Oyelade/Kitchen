@@ -1,0 +1,21 @@
+/* styling Header*/
+
+body{
+    max-width: 1200px;
+    max-height: 200%;
+    margin-left: 60px;
+    }    
+header {
+    background-image: url("./background/landing.jpg");
+    background-size: 100% 100%;
+    padding: 0px;
+    margin-bottom: 0;
+    max-height: 800px;
+    max-width: 1200px;
+}
+hr {
+    color: white;
+    width: 40px;
+    margin-left: 70px;
+}
+
