@@ -166,3 +166,63 @@ h1 {
     border-radius: 4px;
     margin-left: 220px;
 }
+
+/* Menu background styling */
+.menu{
+    margin-top: 0%;
+    background-image: url("./image/foodsBg.jpg");
+    background-color: rgba(231, 228, 228, 0.3); 
+    background-blend-mode:overlay;
+    background-size: 100% 100%;
+}
+
+.tablefood{
+    width:75%;
+    border-top: #f15a29;
+    padding-left: 30px;
+   margin-left: 150px;
+   margin-right: 150px
+}
+
+#menubox{
+
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 80px;
+    margin-left: 0px;
+    padding-right: 0;
+
+}
+#fast-food{
+    width:25%;
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 0px;
+    background-size: 100% 100%;
+    color:#F15A29
+}
+#drink{
+    width:25%;
+    text-align: center;
+    border: 1px solid rgb(155, 152, 152);
+    background-color: rgb(212, 209, 209);
+    margin: 0px;
+    background-size: 100% 100%;
+}
+
+#chicken{
+    width:24%;
+    text-align: center;
+    border: 1px solid rgb(155, 152, 152);
+    background-color: rgb(212, 209, 209);
+    margin: 0px;
+    background-size: 100% 100%;
+}
+#rice{
+    width: 25%;
+    text-align: center;
+    border: 1px solid rgb(155, 152, 152);
+    background-color: rgb(212, 209, 209);
+    margin: 0px;
+}
