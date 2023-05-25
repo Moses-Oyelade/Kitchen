@@ -226,3 +226,36 @@ h1 {
     background-color: rgb(212, 209, 209);
     margin: 0px;
 }
+
+/* Food items*/
+
+table{
+    padding-left: 15px;
+    padding-right:15px
+}
+#table{
+    margin-left: 40px;
+    
+}
+
+
+#dishes{
+    background-color: white;
+    margin-bottom: 80px;
+    height:100px;
+    text-align: center;
+    color:#F15A29;
+    width:100%
+
+}
+ td{
+    padding-top:30px;
+    height: 60px;
+    align-items:center;
+    margin-left: 20px;
+
+}
+span{
+    text-align: center;
+    font-weight: bolder;
+}
