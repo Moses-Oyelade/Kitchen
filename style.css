@@ -282,3 +282,25 @@ span{
     margin-left: 60px;
     margin-right: 40px;
 }
+/* About menu */
+#about-menu h4{
+    color: #F15A29;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center
+}
+#about-menu{
+    text-align: right;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-left-style: 3px solid grey;
+    margin-top: -10px;
+    
+}
+.about{
+    border-left: 3px solid rgb(194, 192, 189);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: -10px;
+}
+
