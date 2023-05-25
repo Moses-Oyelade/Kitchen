@@ -366,3 +366,27 @@ input[type=submit]{
     color:white;
 }
 
+/* footer and logo styling */
+#footerlogo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    padding: 30px;
+    margin-bottom: -20px;
+}
+#footerlogo img{
+    height: fit-content;
+    padding: auto;
+    margin-right: 5px;
+}
+#footer h2{
+    font-size:x-large;
+}
+
+footer{
+    background-color: #F15A29;
+    color:white;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
